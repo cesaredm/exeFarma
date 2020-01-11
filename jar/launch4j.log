@@ -1,0 +1,29 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\gallomasgallo\Desktop\1 - copia\jar\Farmacia.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\gallomasgallo\Desktop\1 - copia\jar\.
+Java min ver:	1.011.000
+Java max ver:	
+Bundled JRE:	Openjdk-11\bin
+Check launcher:	C:\Users\gallomasgallo\Desktop\1 - copia\jar\Openjdk-11\bin\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.008.000_101
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Runtime used:	1.011.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\gallomasgallo\Desktop\1 - copia\jar\Farmacia.exe"
+Args length:	64/32768 chars
+Exit code:	0
